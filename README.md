@@ -79,6 +79,8 @@ Context:
 Determines the round result (Win/Loss/Draw) based on the rules:
 
 
+
+//Normal read me file for better understanding
 Rock beats Scissors
 
 
